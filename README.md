@@ -101,3 +101,5 @@ Enable statistics of the undertow subsystem to see the traffic of each of the wo
 All the configurations are available in the attached standalone.
 
 
+Note:
+Reference: WildFly Performance Tuning by Arnold Johansson; Anders Welén
